@@ -1,11 +1,11 @@
 {
-  "name": "react-native-settings-components",
+  "name": "@zerobytellc/react-native-settings-components",
   "description": "settings components in style of native components (Category Header, Divider, EditText, Picker, Switch)",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/florianstahr/react-native-settings-components.git"
+    "url": "https://github.com/zerobytellc/react-native-settings-components.git"
   },
   "keywords": [
     "react",
@@ -21,21 +21,22 @@
     "switch"
   ],
   "author": {
-    "name": "Florian Stahr",
-    "email": "mail@florianstahr.com"
+    "name": "Timothy C Sweeney-Fanelli (Zero Byte LLC)",
+    "email": "tim@zerobytell.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/florianstahr/react-native-settings-components/issues"
+    "url": "https://github.com/zerobytellc/react-native-settings-components/issues"
   },
   "peerDependencies": {
     "prop-types": ">=15.5.0",
     "react": ">=16.0.0",
-    "react-native": ">=0.56.0"
+    "react-native": ">=0.68.5"
   },
   "dependencies": {
     "lodash": "^4.17.11",
-    "react-native-dialogs": "^1.0.2"
+    "react-native-dialogs": "^1.0.2",
+    "react-native-settings-components": "^0.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",

@@ -6,6 +6,9 @@
 Settings components for React Native in style of native iOS or Android components. <br />
 Uses [`react-native-dialogs`](https://github.com/aakashns/react-native-dialogs) for dialogs on Android.
 
+## Attribution
+This project was originally written by Florian Stahr, forked from here: https://github.com/florianstahr/react-native-settings-components
+
 ## Installation
 
 ```bash
